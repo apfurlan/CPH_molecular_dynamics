@@ -1,1 +1,1 @@
-# molecular_dynamics_cpot
+# Molecular Dynamics for continuous potential
